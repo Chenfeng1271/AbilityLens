@@ -1,8 +1,16 @@
 
 # AbilityLens: Evaluating and Advancing Multimodal Large Language Models in Perception Ability Lens
 
+[![arXiv](https://img.shields.io/badge/arXiv-PDF-red)](https://arxiv.org/pdf/2411.14725)
+
+#### Authors: [Feng Chen]()$^{1}$, [Chenhui Gou]()$^{2*}$, [Jing Liu]()$^2$, [Yang Yang]()$^3$, [Zhaoyang Li]()$^4$, [Jiyuan Zhang]()$^4$, [Zhenbang Sun]()$^{4*}$,  [Bohan Zhuang]()$^5$, [Qi Wu]()$^1$
 
 
+1. The University of Adelaide
+2. Monash University
+3. Australian National University
+4. Tiktok, Australia
+5. Zhejiang University
 
 ## Why `AbilityLens`?
 
