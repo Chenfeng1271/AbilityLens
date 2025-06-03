@@ -6,11 +6,6 @@
 
 ## Why `AbilityLens`?
 
-<p align="center" width="80%">
-<img src="![image](![image](https://github.com/Chenfeng1271/AbilityLens/blob/main/asset/pipeline.pdf)
-)
-"  width="100%" height="80%">
-</p>
 
 
 As multimodal large language models (MLLMs) advance rapidly, rigorous evaluation has become essential, providing further guidance for their development. In this work, we focus on a unified and robust evaluation of vision perception abilities, the foundational skill of MLLMs. We find that existing perception benchmarks, each focusing on different question types, domains, and evaluation metrics, introduce significant evaluation variance, complicating comprehensive assessments of perception abilities when relying on any single benchmark. To address this, we introduce  AbilityLens, a unified benchmark designed to evaluate MLLMs in six key perception abilities (ranging from counting, OCR, to understanding structural data), focusing on both accuracy and stability, with each ability encompassing diverse types of questions, domains, and metrics.
