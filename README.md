@@ -7,7 +7,8 @@
 ## Why `AbilityLens`?
 
 <p align="center" width="80%">
-<img src="![image](https://github.com/user-attachments/assets/ad70a5ed-af7b-4696-b690-10961d1390c3)
+<img src="![image](![image](https://github.com/user-attachments/assets/876dd634-63ef-4511-9f90-cdcc9c7a6fa5)
+)
 "  width="100%" height="80%">
 </p>
 
